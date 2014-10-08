@@ -2,6 +2,10 @@
 
 A Clojure library designed to ... well, that part is up to you.
 
+## Running
+
+lein run -m zmq-stuff.exercises.exercise-3-server
+
 ## Usage
 
 FIXME
